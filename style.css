@@ -1,0 +1,21 @@
+body{
+  background-color: #fff;
+  padding: 50px;
+  margin: 10px;
+}
+
+h1{
+  color: pink;
+}
+
+.primary-button{
+  background-color: blue;
+  color: #fff;
+  padding: 20px
+}
+
+.red-button{
+  background-color: red;
+  color: #fff;
+  padding: 20px
+}
